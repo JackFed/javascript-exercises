@@ -9,7 +9,6 @@ const removeFromArray = function(arr, ...theArgs) {
             }
             i++;
         }
-
     }
     return arr;
 };
